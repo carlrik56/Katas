@@ -1,7 +1,9 @@
 CONST_UP_HALF = 1
 CONST_LOW_HALF = -1
 
+
 class BinarySearch:
+    #http://codekata.com/kata/kata02-karate-chop/
     def __init__(self):
         pass
 

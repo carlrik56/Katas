@@ -23,8 +23,8 @@
       <file leaf-file-name="binary_search_1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binary_search_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="75">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -310,9 +310,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_TestBinarySearch - 2016.10.25 at 14h 18m 13s.xml">
-      <configuration name="Unittests in TestBinarySearch" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_TestBinarySearch - 2016.10.25 at 14h 18m 33s.xml">
       <configuration name="Unittests in TestBinarySearch" configurationId="tests" />
     </history-entry>
@@ -338,6 +335,9 @@
       <configuration name="Unittests in TestBinarySearch" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_TestBinarySearch - 2016.10.26 at 12h 25m 40s.xml">
+      <configuration name="Unittests in TestBinarySearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBinarySearch - 2016.10.26 at 12h 29m 07s.xml">
       <configuration name="Unittests in TestBinarySearch" configurationId="tests" />
     </history-entry>
   </component>
@@ -492,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
