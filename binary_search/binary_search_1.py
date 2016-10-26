@@ -21,18 +21,23 @@ class BinarySearch:
         return output
 
     def binary_search_iterative(self, array_input, value):
+        offset= 0
         array_len = len(array_input)
         half_array = []
         while array_len >= 1:
             pivot = int(array_len/2)
             half_present = self.isBigger(value, array_input[pivot])
             if half_present == 0:
-                return pivot
+                return pivot + offset
             else:
+                if half_present > 0:
+                    offset += (pivot + 1)
                 half_array = self.generate_half_array(array_input, pivot, half_present)
                 array_input = half_array
                 array_len = len(array_input)
         return -1
+
+
 
 
 
